@@ -1,0 +1,17 @@
+
+Etapa 1:
+	Crie um programa que gere um arquivo csv com a lista de pre�os de venda (venda.csv) dos produtos de uma loja:
+		-A lista de pre�os deve conter: c�digo, nome, pre�o de venda
+		-O programa deve solicitar ao usu�rio a margem de lucro a ser aplicada aos produtos
+		-O formato do arquivo de entrada (usar o arquivo de exemplo custo.csv) �: codigo, estoque, nome, pre�o de 
+		custo e categoria
+
+Etapa 2 (para conceito A):
+	Modifique o programa criado para:
+		-Solicitar ao usuario o nome do arquivo de entrada e de saida, caso o usu�rio deixe em branco o nome dos 
+		arquivos de entrada e sa�da, usar os nomes padr�o (custo.csv, venda.csv)
+		-Gerar um segundo arquivo de saida (chamado comprar.csv) que contenha os itens com estoque inferior a 10 
+		unidades,e os mesmos camposdo arquivo de entrada.
+
+Entrega:
+    -Fazer upload da atividade no moodle.
