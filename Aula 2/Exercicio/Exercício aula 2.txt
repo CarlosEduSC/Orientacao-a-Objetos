@@ -1,0 +1,6 @@
+Crie uma classe java que:
+-Tenha um atributo String s1 = "IFPR - Campus Foz do Iguaçu - Avenida Arauc�ria, 780, Bairro Vila A - CEP: 85860-000 - Foz do Iguaçu - Parana - (45)3422-5348"
+-Imprima na tela o CEP do campus.
+-Imprima na tela o Telefone do campus.
+-Converta para inteiro os 4 ultimos digitos do telefone do campus, divida por 2 e imprima na tela.
+
